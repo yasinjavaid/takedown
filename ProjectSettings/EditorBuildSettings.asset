@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Levels/GamePlayBack.unity
+    guid: 2bfe0229031928d4b9bda546d47b08ad
+  - enabled: 1
+    path: Assets/Scenes/Levels/GamePlay.unity
+    guid: fd722a9f15bb2c544bc4482da112bbd2
+  - enabled: 1
+    path: Assets/3rdParty/PolyToon/PolygonNature/Scenes/DemoScene.unity
+    guid: d5673b812d5fa6d4abc53777e9b3fa6b
+  - enabled: 1
+    path: Assets/Fantasy medieval cartoon village pack/Summer day/Day scene.unity
+    guid: 67d921a8d954deb46a270148f242c5e3
+  m_configObjects: {}
